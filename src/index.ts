@@ -8,4 +8,6 @@ export * from './statebuilders/views';
 export * from './uiRouterConfig';
 export * from './uiRouterNgModule';
 
+//export * from './services/routingService'; 
+
 export * from '@uirouter/core';
