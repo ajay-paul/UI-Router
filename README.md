@@ -14,9 +14,6 @@
 
 ---
 
-@uirouter/angular is a client-side [Single Page Application](https://en.wikipedia.org/wiki/Single-page_application)
-routing framework for [Angular](http://angular.io).
-
 Routing frameworks for SPAs update the browser's URL as the user navigates through the app. Conversely, this allows
 changes to the browser's URL to drive navigation through the app, thus allowing the user to create a bookmark to a
 location deep within the SPA.
